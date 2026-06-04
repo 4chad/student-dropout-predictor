@@ -1,0 +1,31 @@
+# ── Credentials — NEVER push ────────────────────────────────────
+db_config.py
+.env
+
+# ── Dataset — too large / not redistributable ────────────────────
+data/
+*.csv
+*.xlsx
+*.zip
+
+# ── Power BI binary ──────────────────────────────────────────────
+powerbi/*.pbix
+
+# ── Python ───────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# ── Jupyter ──────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── OS ───────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
