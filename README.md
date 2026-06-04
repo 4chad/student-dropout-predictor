@@ -310,4 +310,4 @@ Avg Risk Score  = AVERAGE(fact_grades[risk_score])
 ## Author
 
 **Sanskar** — Data Analyst Portfolio Project
-[LinkedIn](#) · [GitHub](#)
+[LinkedIn](https://www.linkedin.com/in/sanskar-5490-thakur/) · [GitHub](https://github.com/4chad)
